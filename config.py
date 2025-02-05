@@ -19,7 +19,7 @@ MONGO_DB_URI = "mongodb+srv://surajitsingh4203:surajitsingh4203@cluster0.62ig0.m
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = -1002348011774
+LOG_GROUP_ID = -1002107679944
 
 # Get this value from @ultron2_robot on Telegram by /id
 OWNER_ID = 7900262575

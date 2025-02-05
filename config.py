@@ -19,10 +19,10 @@ MONGO_DB_URI = "mongodb+srv://vbot9254:vbot9254@venomdd.6o9wv.mongodb.net/?retry
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = -1002345746236
+LOG_GROUP_ID = -1002437019356
 
 # Get this value from @ultron2_robot on Telegram by /id
-OWNER_ID = 7009474165
+OWNER_ID = 7900262575
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name

@@ -43,7 +43,7 @@ SUPPORT_CHANNEL = "https://t.me/moviiieeeesss"
 SUPPORT_GROUP = "https://t.me/venom_support_bot2"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
-AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
+AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
 
 
 # Get this credentials from https://developer.spotify.com/dashboard
@@ -77,12 +77,12 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+START_IMG_URL = "https://ibb.co/k63bLWc7"
 
-PING_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+PING_IMG_URL = "https://ibb.co/ynB2Gfvd"
 
-PLAYLIST_IMG_URL = "https://graph.org/file/763a841a2ad5cbb1e2fc5.jpg"
-STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+PLAYLIST_IMG_URL = "https://ibb.co/Rk2F50jb"
+STATS_IMG_URL = "https://ibb.co/k63bLWc7"
 TELEGRAM_AUDIO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 TELEGRAM_VIDEO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
